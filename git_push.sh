@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Define variables
-VAULT_DIR="/home/laxman/projects/obsidian/Day Planning"
-FILE_TO_ADD="Day planning.md"
-LOG_FILE="/home/laxman/projects/obsidian/git_push.log"
+VAULT_DIR="/home/laxman/projects/obsidian"
+FILE_TO_ADD="Day Planning.md"
+LOG_FILE="/home/laxman/projects/shell_scripts/git_push.log"
 
 # Function to log messages
 log() {
